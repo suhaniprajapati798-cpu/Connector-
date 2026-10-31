@@ -1,0 +1,6 @@
+{
+  "name": "Payload - Autonomous Content Delivery Agent",
+  "description": "Transforms raw ideas, video topics, and transcripts into platform-ready, zero-fluff delivery payloads for Social Media, Metricool, and YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
